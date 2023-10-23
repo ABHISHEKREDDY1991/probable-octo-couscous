@@ -1,0 +1,19 @@
+{
+    "users" : [
+    {
+        "id":1,
+        "name":"smith",
+        "phone":"7598548659",
+        "company":"Swarna",
+        "Milk Liters":"10"
+    },
+
+    {
+        "id":2,
+        "name":"Kohli",
+        "phone":"88592654526",
+        "company":"Srinivasa",
+        "MilkLiters":"15"
+    }
+]
+}
